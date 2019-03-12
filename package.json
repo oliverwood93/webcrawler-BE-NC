@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "webcrawler-BE-NC",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/oliverwood93/webcrawler-BE-NC.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
